@@ -1,5 +1,13 @@
 # goit-js-hw-07
 
+https://oleksiigasly.github.io/goit-js-hw-07/index.html
+
+https://github.com/OleksiiGasly/goit-js-hw-07
+
+
+
+---------------------------------------------
+
 Задание 1
 В HTML есть список категорий ul#categories.
 
