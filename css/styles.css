@@ -1,0 +1,20 @@
+ul {
+    list-style: none;
+}
+  
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.gallery__list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery__item {
+    display: flex;
+    flex-basis: calc(100% / 3 - 10px);
+    margin-left: 10px;
+}
